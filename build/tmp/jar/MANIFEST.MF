@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: SymbolReplacer
+Implementation-Version: prealpha
+Main-Class: com.QLiteProject.launcher
+
